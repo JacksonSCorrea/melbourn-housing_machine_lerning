@@ -6,7 +6,7 @@ Trata-se de um projeto para estudo e composição de portfólio.
 
 Foi realizada uma análise exploratória dos dados, com o intuito de descrever algumas relações e demonstrar alguns insights que podem ser estratégicos na tomada de decisões.
 
-Adiante, os dados foram pré-processados, ocorrendo a remoção de valores missing e outliers. Também foi realizada a conversão de variáveis categóricas emnuméricas.
+Adiante, os dados foram pré-processados, ocorrendo a remoção de valores missing e análise de outliers. Também foi realizada a conversão de variáveis categóricas emnuméricas.
 
 Feito isso, os dados foram separados em dados de treino e de teste. Os dados de teste representam 20% dos dados totais, e são utilizados somente na verificação do desempenho do modelo final treinado.
 
