@@ -2,7 +2,7 @@
 
 Este é um projeto de Ciência de Dados que tem o intuito de elaborar modelos de regressão linear para prever preços de casas em Melbourne, Austrália.
 
-Trata-se de um projetos para estudo e composição de portfólio.
+Trata-se de um projeto para estudo e composição de portfólio.
 
 Foi realizada uma análise exploratória dos dados, com o intuito de descrever algumas relações e demonstrar alguns insights que podem ser estratégicos na tomada de decisões.
 
